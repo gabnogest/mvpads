@@ -1,8 +1,21 @@
+<<<<<<< HEAD
 🌿 EcoSerra Teresópolis MVP – ADS UNIFESO
 
 📍 Polo EAD – Teresópolis 09
 
 👥 Integrantes: Breno Masiero Silva – 06012746 Gabriel Nogueira Esteves – 06015945 David Dias Demani - 06016160
+=======
+🌿 EcoSerra Teresópolis
+MVP – ADS UNIFESO
+
+📍 Polo EAD – Teresópolis 09
+
+👥 Integrantes
+Breno Masiero Silva – 06012746
+Gabriel Nogueira Esteves – 
+06015945
+David Dias Demani - 06016160
+>>>>>>> f86909da34d3fb690137c0c027525eae16876efb
 
 📌 Sobre o Projeto
 
@@ -10,11 +23,24 @@ O EcoSerra Teresópolis é uma plataforma digital desenvolvida como MVP (Produto
 
 A região possui grande relevância ambiental e turística, com destaque para áreas como:
 
+<<<<<<< HEAD
 Parque Nacional da Serra dos Órgãos Parque Estadual dos Três Picos Parque Natural Municipal Montanhas de Teresópolis
 
 Essas áreas oferecem diversas atividades, como:
 
 Trilhas Escaladas Visitação a cachoeiras Contato direto com a natureza
+=======
+Parque Nacional da Serra dos Órgãos
+Parque Estadual dos Três Picos
+Parque Natural Municipal Montanhas de Teresópolis
+
+Essas áreas oferecem diversas atividades, como:
+
+Trilhas
+Escaladas
+Visitação a cachoeiras
+Contato direto com a natureza
+>>>>>>> f86909da34d3fb690137c0c027525eae16876efb
 
 Diante desse cenário, o sistema foi idealizado para facilitar o acesso a informações confiáveis e atualizadas, incentivando o turismo consciente e organizado.
 
@@ -22,7 +48,14 @@ Diante desse cenário, o sistema foi idealizado para facilitar o acesso a inform
 
 Desenvolver uma plataforma simples e intuitiva que permita aos usuários:
 
+<<<<<<< HEAD
 Encontrar trilhas e pontos turísticos naturais Consultar eventos relacionados ao ecoturismo Acessar informações atualizadas sobre funcionamento e condições das atrações Explorar a região de forma segura e consciente
+=======
+Encontrar trilhas e pontos turísticos naturais
+Consultar eventos relacionados ao ecoturismo
+Acessar informações atualizadas sobre funcionamento e condições das atrações
+Explorar a região de forma segura e consciente
+>>>>>>> f86909da34d3fb690137c0c027525eae16876efb
 
 👤 Atores Envolvidos
 
@@ -30,12 +63,18 @@ Encontrar trilhas e pontos turísticos naturais Consultar eventos relacionados a
 
 Usuários que acessam a plataforma para:
 
+<<<<<<< HEAD
 Buscar informações sobre trilhas, cachoeiras e eventos Planejar visitas e atividades
+=======
+Buscar informações sobre trilhas, cachoeiras e eventos
+Planejar visitas e atividades
+>>>>>>> f86909da34d3fb690137c0c027525eae16876efb
 
 🔹 Administradores
 
 Responsáveis por:
 
+<<<<<<< HEAD
 Atualizar conteúdos do sistema Gerenciar informações exibidas Controlar acesso administrativo
 
 🛠️ Tecnologias Utilizadas HTML → Estrutura da aplicação CSS → Estilização e layout JavaScript → Interatividade e comportamento 💡 Diferencial do Projeto
@@ -47,5 +86,31 @@ Incentivar o turismo sustentável 🌱 Promover a valorização ambiental da reg
 Possíveis evoluções do sistema:
 
 Integração com APIs de clima 🌦️ Sistema de avaliação de trilhas ⭐ Geolocalização 📍 Versão mobile 📄 Licença
+=======
+Atualizar conteúdos do sistema
+Gerenciar informações exibidas
+Controlar acesso administrativo
+
+🛠️ Tecnologias Utilizadas
+HTML → Estrutura da aplicação
+CSS → Estilização e layout
+JavaScript → Interatividade e comportamento
+💡 Diferencial do Projeto
+
+O EcoSerra busca não apenas informar, mas também:
+
+Incentivar o turismo sustentável 🌱
+Promover a valorização ambiental da região
+Facilitar o planejamento de atividades ao ar livre
+📈 Visão de Futuro
+
+Possíveis evoluções do sistema:
+
+Integração com APIs de clima 🌦️
+Sistema de avaliação de trilhas ⭐
+Geolocalização 📍
+Versão mobile ou aplicativo
+📄 Licença
+>>>>>>> f86909da34d3fb690137c0c027525eae16876efb
 
 Projeto acadêmico desenvolvido para fins educacionais – UNIFESO
